@@ -1,0 +1,46 @@
+__pycache__/
+*.pyc
+
+# 安装相关
+*.egg-info/
+build/
+dist/
+
+# 日志文件
+*.log
+
+# 配置文件（如果是你本地用的）
+*.ini
+*.yaml
+*.yml
+*.obj
+*.ply
+*.npy
+*.pt
+*.mp4
+# 数据集或模型
+data
+checkpoints/
+models/
+output
+output_batch
+
+
+# 虚拟环境（如果放在项目里）
+env/
+venv/
+
+# VSCode / PyCharm 项目文件
+.vscode/
+.idea/
+
+./data/scan/bookshelf/simplified/base.obj
+./motion_data/s1_Close_microwave_1740_1830_microwave_part1_sequence.ply
+./motion_data/s1_Close_refrigerator_3360_3420_refrigerator_base_sequence.ply
+./motion_data/s3_Close_microwave_1575_1620_microwave_part1_sequence.ply
+./motion_data/s1_Open_microwave_1380_1470_microwave_part1_sequence.ply
+./motion_data/s1_Turn_off_gas_stove_2760_2850_gasstove_base_sequence.ply
+./motion_data/s1_Turn_on_gas_stove_1110_1170_gasstove_base_sequence.ply
+./motion_data/s1_Open_refrigerator_3180_3240_refrigerator_base_sequence.ply*.npy
+*.pt
+*.mp4

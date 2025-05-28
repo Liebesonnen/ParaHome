@@ -1,0 +1,15 @@
+{
+  "类型": "<class 'dict'>",
+  "结构": "字典",
+  "键数量": 8,
+  "键列表": [
+    "drawer",
+    "sink",
+    "refrigerator",
+    "trashbin",
+    "washingmachine",
+    "gasstove",
+    "microwave",
+    "laptop"
+  ]
+}
